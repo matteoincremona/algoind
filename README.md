@@ -63,6 +63,9 @@ SMA20 = SMA(pandas.Close, 20)
 # To see the values of the indicator:
 SMA20
 ```
+# ⚙️ Discussion and Development
+I will be very enthusiastic if somebody would like to help me with this project.
+Don't es
 
 [contact here]: https://github.com/matteoincremona/matteoincremona/
 [Investopedia.com]: https://www.investopedia.com
