@@ -11,10 +11,11 @@
 
 # 🔎 What is it
 
-- **algoind** is small python3 package that contains technical indicators for backtesting and for implementing trading strategies in Python3.
+- **algoind** is python3 package that contains technical indicators for backtesting and for implementing trading strategies in Python3.
 
 - ### 😃 Who I am
-  - My name is Matteo, a 21 years old FinTech student, and I created this library for my personal usage. I decided publish it because it think can be useful for some people.
+  - My name is Matteo, a 21 years old FinTech student.
+  - I created this library for my personal usage and I decided publish it because it think can be useful for someone.
   - 👋 You can find my [contact here].
 
 - The source code is currently hosted on GitHub at: https://github.com/...
@@ -65,7 +66,11 @@ SMA20
 ```
 # ⚙️ Discussion and Development
 I will be very enthusiastic if somebody would like to help me with this project.
-Don't es
+
+[Contact me] if you have any **problem** or if you want me to add **new indicators**.
+
+Thank you.
 
 [contact here]: https://github.com/matteoincremona/matteoincremona/
 [Investopedia.com]: https://www.investopedia.com
+[Contact me]: https://github.com/matteoincremona/matteoincremona/
