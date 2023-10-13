@@ -56,9 +56,9 @@ from algoind import indicators as ind
 help(ind.SMA)
 
 # Let's try SMA that takes, for example:
-# - The close prices of a df called data: "data.Close"
+# - The close prices of a df: "df.Close"
 # - The period for the calculation of the SMA: "20"
-SMA20 = ind.SMA(pandas.Close, 20)
+SMA20 = ind.SMA(df.Close, 20)
 
 # To see the values of the indicator:
 SMA20
