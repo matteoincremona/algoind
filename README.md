@@ -14,7 +14,7 @@
 
 - ### 😃 Who I am
   - My name is Matteo, a 21 years old FinTech student.
-  - I created this library for my personal usage and I decided publish it because it think can be useful for someone.
+  - I created this library for my personal usage and I decided publish it because it can be useful for someone.
   - 👋 You can find my [contacts here].
 
 - The source code is currently hosted on GitHub at: https://github.com/matteoincremona/algoind/
