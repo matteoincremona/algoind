@@ -50,15 +50,15 @@ This is the list of all the indicators **algoind** contains:
 ```sh
 # After the installation of the package:
 import algoind
-from algoind import indicators
+from algoind import indicators as ind
 
 # Let's try SMA: what should we know about it?
-help(SMA)
+help(ind.SMA)
 
 # Let's try SMA that takes, for example:
 # - The close prices of a df called data: "data.Close"
 # - The period for the calculation of the SMA: "20"
-SMA20 = SMA(pandas.Close, 20)
+SMA20 = ind.SMA(pandas.Close, 20)
 
 # To see the values of the indicator:
 SMA20
