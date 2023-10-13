@@ -5,7 +5,7 @@
 <img src ="https://img.shields.io/badge/pipy-%3E%20v3.7-blue" /> </a>
 <img src ="https://img.shields.io/badge/version-0.0.1-green" /> </a>
 
-![images](https://github.com/matteoincremona/algoind/blob/main/imga.jpg)
+![images](https://ibb.co/HgRBZH7)
 
 <div align="left">
 
