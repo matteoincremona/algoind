@@ -50,7 +50,7 @@ This is the list of all the indicators **algoind** contains:
 ```sh
 # After the installation of the package:
 import algoind
-from algoind import xxx
+from algoind import indicators
 
 # Let's try SMA: what should we know about it?
 help(SMA)
