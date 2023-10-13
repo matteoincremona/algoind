@@ -17,7 +17,7 @@
   - I created this library for my personal usage and I decided publish it because it think can be useful for someone.
   - 👋 You can find my [contacts here].
 
-- The source code is currently hosted on GitHub at: https://github.com/...
+- The source code is currently hosted on GitHub at: https://github.com/matteoincremona/algoind/
 
 - Thanks to [Investopedia.com] that provided me a vast amount of knowledge to be able to create this library.
 
