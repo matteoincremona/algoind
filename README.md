@@ -64,5 +64,5 @@ SMA20 = SMA(pandas.Close, 20)
 SMA20
 ```
 
-[contact here]: https://github.com/matteoincremona/TESTLIIB/tree/main#-who-i-am-1
+[contact here]: https://github.com/matteoincremona/matteoincremona/
 [Investopedia.com]: https://www.investopedia.com
