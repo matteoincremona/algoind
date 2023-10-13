@@ -16,7 +16,7 @@
 - ### 😃 Who I am
   - My name is Matteo, a 21 years old FinTech student.
   - I created this library for my personal usage and I decided publish it because it think can be useful for someone.
-  - 👋 You can find my [contact here].
+  - 👋 You can find my [contacts here].
 
 - The source code is currently hosted on GitHub at: https://github.com/...
 
@@ -71,6 +71,6 @@ I will be very enthusiastic if somebody would like to help me with this project.
 
 Thank you.
 
-[contact here]: https://github.com/matteoincremona/matteoincremona/
+[contacts here]: https://github.com/matteoincremona/matteoincremona/
 [Investopedia.com]: https://www.investopedia.com
 [Contact me]: https://github.com/matteoincremona/matteoincremona/
