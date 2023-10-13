@@ -4,8 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=blueviolet&style=flat" /> </a>
 <img src ="https://img.shields.io/badge/pipy-%3E%20v3.7-blue" /> </a>
 <img src ="https://img.shields.io/badge/version-0.0.1-green" /> </a>
-
-![images](https://github.com/matteoincremona/algoind/blob/main/imga.jpg)
+<img src= "https://raw.githubusercontent.com/matteoincremona/algoind/main/">
 
 <div align="left">
 
