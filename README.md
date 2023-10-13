@@ -61,7 +61,7 @@ help(ind.SMA)
 SMA20 = ind.SMA(df.Close, 20)
 
 # To see the values of the indicator:
-SMA20
+print(SMA20)
 ```
 # ⚙️ Discussion and Development
 I will be very enthusiastic if somebody would like to help me with this project.
