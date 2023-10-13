@@ -15,7 +15,7 @@
 
 - ### 😃 Who I am
   - My name is Matteo, a 21 years old FinTech student, and I created this library for my personal usage. I decided publish it because it think can be useful for some people.
-  - You can find my [contact here].
+  - 👋 You can find my [contact here].
 
 - The source code is currently hosted on GitHub at: https://github.com/...
 
