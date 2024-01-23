@@ -10,16 +10,16 @@
 
 # 🔎 What is it
 
-- **algoind** is python3 package that contains technical indicators for backtesting and for implementing trading strategies.
+- **algoind** is a python3 package that contains technical indicators for backtesting and for implementing trading strategies.
 
 - ### 😃 Who I am
-  - My name is Matteo, a 21 years old FinTech student.
-  - I created this library for my personal usage and I decided publish it because it can be useful for someone.
+  - My name is Matteo, a 21-year-old FinTech student.
+  - I created this library for personal usage and I decided to publish it because it can be useful for someone.
   - 👋 You can find my [contacts here].
 
 - The source code is currently hosted on GitHub at: https://github.com/matteoincremona/algoind/
 
-- Thanks to [Investopedia.com] that provided me a vast amount of knowledge to be able to create this library.
+- Thanks to [Investopedia.com] which provided me a vast amount of knowledge to be able to create this library.
 
 # 💻 How to Install it
 ```sh
@@ -36,7 +36,7 @@ pip install algoind
 This is the list of all the indicators **algoind** contains:
 
   - Single Moving Average (**SMA**)
-  - Esponential Moving Average (**EMA**)
+  - Exponential Moving Average (**EMA**)
   - Average True Range (**ATR**)
   - Relative Strenght Index (**RSI**)
   - Upper Bollinger Bands (**BBU**)
@@ -64,7 +64,7 @@ SMA20 = ind.SMA(df.Close, 20)
 print(SMA20)
 ```
 # ⚙️ Discussion and Development
-I will be very enthusiastic if somebody would like to help me with this project.
+I would be very enthusiastic if somebody would like to help me with this project.
 
 [Contact me] if you have any **problem** or if you want me to add **new indicators**.
 
