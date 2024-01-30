@@ -1,4 +1,4 @@
-<h1 align="center">ALGOIND: A Technical Indicators collection in Python.</h1>
+<h1 align="center">ALGOIND: Technical Indicators Collection in Python.</h1>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=blueviolet&style=flat" /> </a>
