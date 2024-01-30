@@ -13,7 +13,7 @@
 - **algoind** is a python3 package that contains technical indicators for backtesting and for implementing trading strategies.
 
 - ### 😃 Who I am
-  - My name is Matteo, a 21-year-old FinTech student.
+  - My name is Matteo, a young FinTech student.
   - I created this library for personal usage and I decided to publish it because it can be useful for someone.
   - 👋 You can find my [contacts here].
 
