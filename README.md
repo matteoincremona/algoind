@@ -1,5 +1,3 @@
-<h1 align="center">ALGOIND: A Technical Indicators Collection in Python.</h1>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=blueviolet&style=flat" /> </a>
 <img src ="https://img.shields.io/badge/pipy-%3E%20v3.7-blue" /> </a>
