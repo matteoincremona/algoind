@@ -12,7 +12,7 @@
 
 - ### 😃 Who I am
   - My name is Matteo.
-  - Background in engineering, informatics, and finance.
+  - I have a background in engineering, informatics, and finance.
   - I love data and coding, so I decided to create this library.
   - 👋 You can find my [contacts here].
 
